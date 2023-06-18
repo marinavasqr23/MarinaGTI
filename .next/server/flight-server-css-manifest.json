@@ -1,0 +1,25 @@
+{
+  "cssImports": {
+    "C:\\Users\\Marina\\desafio\\app\\layout.js": [
+      "C:\\Users\\Marina\\desafio\\app\\globals.css",
+      "C:\\Users\\Marina\\desafio\\components\\menu\\menu.css",
+      "C:\\Users\\Marina\\desafio\\components\\footer\\footer.css"
+    ],
+    "C:\\Users\\Marina\\desafio\\app\\page.js": [
+      "C:\\Users\\Marina\\desafio\\app\\page.module.css",
+      "C:\\Users\\Marina\\desafio\\components\\services\\services.css",
+      "C:\\Users\\Marina\\desafio\\components\\about\\about.css",
+      "C:\\Users\\Marina\\desafio\\components\\banner\\banner.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\Marina\\desafio\\app\\page": [
+      "C:\\Users\\Marina\\desafio\\components\\menu\\menu.css",
+      "C:\\Users\\Marina\\desafio\\components\\services\\services.css",
+      "C:\\Users\\Marina\\desafio\\components\\footer\\footer.css",
+      "C:\\Users\\Marina\\desafio\\components\\about\\about.css",
+      "C:\\Users\\Marina\\desafio\\components\\banner\\banner.css",
+      "C:\\Users\\Marina\\desafio\\app\\globals.css"
+    ]
+  }
+}
